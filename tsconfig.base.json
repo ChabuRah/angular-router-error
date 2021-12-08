@@ -14,7 +14,11 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@route-err/home": ["libs/home/src/index.ts"],
+      "@route-err/post": ["libs/post/src/index.ts"],
+      "@route-err/topic": ["libs/topic/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
