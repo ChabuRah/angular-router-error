@@ -11,3 +11,4 @@ This project was generated using [Nx](https://nx.dev).
 - Go to Post link
 - Hit browser back button
 - See crash
+- Crash also happens if you jump between Post and Topic routes, so it doesn't really specific to browser back button.
